@@ -1,0 +1,17 @@
+D:\C#-Dio\DesafioPOO\bin\Debug\net6.0\DesafioPOO.exe
+D:\C#-Dio\DesafioPOO\bin\Debug\net6.0\DesafioPOO.deps.json
+D:\C#-Dio\DesafioPOO\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+D:\C#-Dio\DesafioPOO\bin\Debug\net6.0\DesafioPOO.dll
+D:\C#-Dio\DesafioPOO\bin\Debug\net6.0\DesafioPOO.pdb
+D:\C#-Dio\DesafioPOO\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\C#-Dio\DesafioPOO\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+D:\C#-Dio\DesafioPOO\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Dio\DesafioPOO\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+D:\C#-Dio\DesafioPOO\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+D:\C#-Dio\DesafioPOO\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+D:\C#-Dio\DesafioPOO\obj\Debug\net6.0\DesafioPOO.csproj.CopyComplete
+D:\C#-Dio\DesafioPOO\obj\Debug\net6.0\DesafioPOO.dll
+D:\C#-Dio\DesafioPOO\obj\Debug\net6.0\refint\DesafioPOO.dll
+D:\C#-Dio\DesafioPOO\obj\Debug\net6.0\DesafioPOO.pdb
+D:\C#-Dio\DesafioPOO\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+D:\C#-Dio\DesafioPOO\obj\Debug\net6.0\ref\DesafioPOO.dll
